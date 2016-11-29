@@ -1,4 +1,4 @@
 defmodule UAParser.UATest do
   use ExUnit.Case
-  # doctest UAParser.UA
+  doctest UAParser.UA
 end
