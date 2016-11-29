@@ -1,4 +1,4 @@
 defmodule UAParser.VersionTest do
   use ExUnit.Case
-  # doctest UAParser.Version
+  doctest UAParser.Version
 end
