@@ -1,4 +1,4 @@
 defmodule UAParser.DeviceTest do
   use ExUnit.Case
-  # doctest UAParser.Device
+  doctest UAParser.Device
 end
