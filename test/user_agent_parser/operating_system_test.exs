@@ -1,4 +1,4 @@
-defmodule UserAgentParser.OperatingSystemTest do
+defmodule UAParser.OperatingSystemTest do
   use ExUnit.Case
-  doctest UserAgentParser.OperatingSystem
+  # doctest UAParser.OperatingSystem
 end

@@ -1,4 +1,4 @@
-defmodule UserAgentParser.VersionTest do
+defmodule UAParser.VersionTest do
   use ExUnit.Case
-  doctest UserAgentParser.Version
+  # doctest UAParser.Version
 end

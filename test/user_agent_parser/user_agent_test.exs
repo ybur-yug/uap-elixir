@@ -1,4 +1,4 @@
-defmodule UserAgentParser.UserAgentTest do
+defmodule UAParser.UATest do
   use ExUnit.Case
-  doctest UserAgentParser.UserAgent
+  # doctest UAParser.UA
 end

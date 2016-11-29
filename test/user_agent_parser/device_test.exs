@@ -1,4 +1,4 @@
-defmodule UserAgentParser.DeviceTest do
+defmodule UAParser.DeviceTest do
   use ExUnit.Case
-  doctest UserAgentParser.Device
+  # doctest UAParser.Device
 end
